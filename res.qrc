@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/jiang.bmp</file>
+        <file>pic/xiao.bmp</file>
+    </qresource>
+</RCC>
